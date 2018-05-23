@@ -1,0 +1,18 @@
+body {
+
+    font-family: "Times-New Roman", Times, serif;
+}
+
+#quiz {
+    margin-left: 10px;
+    background-color: aqua;
+    padding: 10px 20px 10px 20px;
+    width: 400px;
+    border-radius: 20px;
+    float: left; 
+}
+
+
+#after_submit {
+    visibility: hidden: 
+}
